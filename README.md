@@ -1,1 +1,1 @@
-# javascriptclock Ödevi
+# javascriptclock
